@@ -1,10 +1,14 @@
-{
-  "profiles": [
-    {
-      "name": "printHello",
-      "start": 80809762001,
-      "end": 80809762015,
-      "threadID": 2245089534067061594
-    }
-  ]
-}
+{"otherData": {},"traceEvents": [
+{"cat":"function","dur":30,"name":"LOOP","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184780950},
+{"cat":"function","dur":6,"name":"LOOP","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184781239},
+{"cat":"function","dur":1,"name":"LOOP","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184781246},
+{"cat":"function","dur":1,"name":"LOOP","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184781248},
+{"cat":"function","dur":1,"name":"LOOP","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184781250},
+{"cat":"function","dur":1,"name":"LOOP","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184781252},
+{"cat":"function","dur":1,"name":"LOOP","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184781254},
+{"cat":"function","dur":1,"name":"LOOP","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184781256},
+{"cat":"function","dur":1,"name":"LOOP","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184781258},
+{"cat":"function","dur":1,"name":"LOOP","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184781260},
+{"cat":"function","dur":18,"name":"sleep 100ms","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184781281},
+{"cat":"function","dur":39,"name":"foo","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184781262},
+{"cat":"function","dur":352,"name":"main","ph":"X","pid":0,"tid":2245089534067061594,"ts":83184780950}]}
